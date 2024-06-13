@@ -10,6 +10,6 @@ My name is Martin
 
 ![Logo](./logo.png)
 
-Get off the Couch 🛋️, put on your shades 🕶️, follow the white rabbit 🐰, flick away the red and the blue pill 💊, exit the Matrix ⊹ and enjoy ✨ the first ⚡ day 😎 of the rest of your real life 🌍.
+Get off the Couch 🛋️, put on your shades 🕶️, follow the white rabbit 🐰, throw away the red and the blue pill 💊, exit the Matrix ⊹ and enjoy ✨ the first ⚡ day 😎 of the rest of your real life 🌍.
 
 Keep on coding 🧑🏽‍💻!
